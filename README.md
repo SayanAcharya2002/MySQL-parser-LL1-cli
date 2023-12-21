@@ -4,5 +4,6 @@ Then the parser.cpp takes in the tokens, production rules, and a list of termina
 This uses the LL1 parsing table and in the process, creates various tables including the "firstpos", "followpos", "nullables", etc.
 Using that the text is then parsed.
 
+The terminal_finder.py finds the terminal symbols given a file containing the production rules.
 To run the whole pipelne, use the compile.bat.
 Usage: compile <sql_filename>
