@@ -1,0 +1,1 @@
+) create from key inttype ; table values int , in insert like into or * ( where stringwithquotes between varchar float and primary select epsilon operator floattype stringwithoutquotes
